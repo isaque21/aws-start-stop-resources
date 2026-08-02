@@ -1,0 +1,6 @@
+# AWS CLI config files
+.aws-profile
+.aws-region
+
+# Kiro
+.kiro/
